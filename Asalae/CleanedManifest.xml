@@ -1,0 +1,216 @@
+<ArchiveTransfer xmlns="fr:gouv:culture:archivesdefrance:seda:v1.0"
+                 xmlns:ns2="http://www.w3.org/2000/09/xmldsig#"
+                 xmlns:premis="info:lc/xmlns/premis-v2"
+                 xmlns:ns4="http://www.w3.org/1999/xlink"
+                 xmlns:ns5="http://www.w3.org/2001/XMLSchema-instance"
+                 Id="_20200630152725130"
+                 ns5:schemaLocation="fr:gouv:culture:archivesdefrance:seda:v1.0 seda_v1-0_archivetransfer.xsd info:lc/xmlns/premis-v2 http://www.loc.gov/premis/v2/premis.xsd">
+   <Date>2020-07-09T19:49:27.057+02:00</Date>
+   <TransferIdentifier/>
+   <ArchivalAgency>
+      <Identification>id_ad</Identification>
+   </ArchivalAgency>
+   <TransferringAgency>
+      <Identification>id_spsv</Identification>
+   </TransferringAgency>
+   <Archive Id="ID20200709194927070">
+      <DescriptionLanguage>fra</DescriptionLanguage>
+      <Name>Light</Name>
+      <ContentDescription>
+         <DescriptionLevel>file</DescriptionLevel>
+         <Language>fra</Language>
+         <CustodialHistory>
+            <CustodialHistoryItem>OCTAVE/docuteam-packer</CustodialHistoryItem>
+            <CustodialHistoryItem>5.3.0</CustodialHistoryItem>
+         </CustodialHistory>
+      </ContentDescription>
+      <AccessRestrictionRule>
+         <Code>AR038</Code>
+         <StartDate>2020-06-30</StartDate>
+      </AccessRestrictionRule>
+      <ArchiveObject Id="ID20200630152725207">
+         <Name>89008W</Name>
+         <ContentDescription>
+            <DescriptionLevel>file</DescriptionLevel>
+            <Language>fra</Language>
+            <LatestDate>2020-06-30</LatestDate>
+            <Keyword>
+               <KeywordContent>abri</KeywordContent>
+               <KeywordReference>http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1195</KeywordReference>
+               <KeywordType>subject</KeywordType>
+            </Keyword>
+            <!--<OtherMetadata xmlns="fr:gouv:culture:archivesdefrance:seda:v1.0">
+                    <premis:event xmlns:premis="info:lc/xmlns/premis-v2">
+                        <premis:eventIdentifier>
+                            <premis:eventIdentifierType>Docuteam</premis:eventIdentifierType>
+                            <premis:eventIdentifierValue>ID20200630152725229</premis:eventIdentifierValue>
+                        </premis:eventIdentifier>
+                        <premis:eventType>Creation</premis:eventType>
+                        <premis:eventDateTime>2020-06-30T15:27:25</premis:eventDateTime>
+                        <premis:eventDetail>Performed by: 'picka'</premis:eventDetail>
+                        <premis:eventOutcomeInformation>
+                            <premis:eventOutcome>Success</premis:eventOutcome>
+                        </premis:eventOutcomeInformation>
+                    </premis:event>
+                </OtherMetadata>--></ContentDescription>
+         <AccessRestrictionRule>
+            <Code>AR038</Code>
+            <StartDate>2020-06-30</StartDate>
+         </AccessRestrictionRule>
+         <ArchiveObject Id="ID20200630152725241">
+            <Name>Bureautique</Name>
+            <ContentDescription>
+               <DescriptionLevel>file</DescriptionLevel>
+               <Language>fra</Language>
+               <LatestDate>2020-06-30</LatestDate>
+               <!--<OtherMetadata xmlns="fr:gouv:culture:archivesdefrance:seda:v1.0">
+                        <premis:event xmlns:premis="info:lc/xmlns/premis-v2">
+                            <premis:eventIdentifier>
+<premis:eventIdentifierType>Docuteam</premis:eventIdentifierType>
+<premis:eventIdentifierValue>ID20200630152725263</premis:eventIdentifierValue>
+                            </premis:eventIdentifier>
+                            <premis:eventType>Creation</premis:eventType>
+                            <premis:eventDateTime>2020-06-30T15:27:25</premis:eventDateTime>
+                            <premis:eventDetail>Performed by: 'picka'</premis:eventDetail>
+                            <premis:eventOutcomeInformation>
+<premis:eventOutcome>Success</premis:eventOutcome>
+                            </premis:eventOutcomeInformation>
+                        </premis:event>
+                    </OtherMetadata>--></ContentDescription>
+            <ArchiveObject Id="ID20200630152725296">
+               <Name>CR</Name>
+               <ContentDescription>
+                  <DescriptionLevel>file</DescriptionLevel>
+                  <Language>fra</Language>
+                  <LatestDate>2020-06-17</LatestDate>
+                  <!--<OtherMetadata xmlns="fr:gouv:culture:archivesdefrance:seda:v1.0">
+                            <premis:event xmlns:premis="info:lc/xmlns/premis-v2">
+<premis:eventIdentifier>
+    <premis:eventIdentifierType>Docuteam</premis:eventIdentifierType>
+    <premis:eventIdentifierValue>ID20200630152725309</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventType>Creation</premis:eventType>
+<premis:eventDateTime>2020-06-30T15:27:25</premis:eventDateTime>
+<premis:eventDetail>Performed by: 'picka'</premis:eventDetail>
+<premis:eventOutcomeInformation>
+    <premis:eventOutcome>Success</premis:eventOutcome>
+</premis:eventOutcomeInformation>
+                            </premis:event>
+                        </OtherMetadata>--></ContentDescription>
+               <Document Id="ID20200630152725287">
+                  <Attachment uri="Content/CR_20200709194927080.docx" filename="CR_20200709194927080.docx"/>
+                  <Description>Microsoft Word for Windows</Description>
+                  <Issue>2020-06-17T11:57:23.896+02:00</Issue>
+                  <Size unitCode="2P">11888</Size>
+                  <Type>CDO</Type>
+               </Document>
+            </ArchiveObject>
+            <ArchiveObject Id="ID20200630152725342">
+               <Name>CR</Name>
+               <ContentDescription>
+                  <DescriptionLevel>file</DescriptionLevel>
+                  <Language>fra</Language>
+                  <LatestDate>2020-06-17</LatestDate>
+                  <!--<OtherMetadata xmlns="fr:gouv:culture:archivesdefrance:seda:v1.0">
+                            <premis:event xmlns:premis="info:lc/xmlns/premis-v2">
+<premis:eventIdentifier>
+    <premis:eventIdentifierType>Docuteam</premis:eventIdentifierType>
+    <premis:eventIdentifierValue>ID20200630152725355</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventType>Creation</premis:eventType>
+<premis:eventDateTime>2020-06-30T15:27:25</premis:eventDateTime>
+<premis:eventDetail>Performed by: 'picka'</premis:eventDetail>
+<premis:eventOutcomeInformation>
+    <premis:eventOutcome>Success</premis:eventOutcome>
+</premis:eventOutcomeInformation>
+                            </premis:event>
+                        </OtherMetadata>--></ContentDescription>
+               <Document Id="ID20200630152725333">
+                  <Attachment uri="Content/CR_20200709194927089.pdf" filename="CR_20200709194927089.pdf"/>
+                  <Description>Acrobat PDF 1.7 - Portable Document Format</Description>
+                  <Issue>2020-06-17T11:57:29.193+02:00</Issue>
+                  <Size unitCode="2P">33524</Size>
+                  <Type>CDO</Type>
+               </Document>
+            </ArchiveObject>
+         </ArchiveObject>
+         <ArchiveObject Id="ID20200630152725368">
+            <Name>Mail</Name>
+            <ContentDescription>
+               <DescriptionLevel>file</DescriptionLevel>
+               <Language>fra</Language>
+               <LatestDate>2020-06-30</LatestDate>
+               <!--<OtherMetadata xmlns="fr:gouv:culture:archivesdefrance:seda:v1.0">
+                        <premis:event xmlns:premis="info:lc/xmlns/premis-v2">
+                            <premis:eventIdentifier>
+<premis:eventIdentifierType>Docuteam</premis:eventIdentifierType>
+<premis:eventIdentifierValue>ID20200630152725390</premis:eventIdentifierValue>
+                            </premis:eventIdentifier>
+                            <premis:eventType>Creation</premis:eventType>
+                            <premis:eventDateTime>2020-06-30T15:27:25</premis:eventDateTime>
+                            <premis:eventDetail>Performed by: 'picka'</premis:eventDetail>
+                            <premis:eventOutcomeInformation>
+<premis:eventOutcome>Success</premis:eventOutcome>
+                            </premis:eventOutcomeInformation>
+                        </premis:event>
+                    </OtherMetadata>--></ContentDescription>
+            <ArchiveObject Id="ID20200630152725432">
+               <Name>mail</Name>
+               <ContentDescription>
+                  <DescriptionLevel>file</DescriptionLevel>
+                  <Language>fra</Language>
+                  <LatestDate>2020-06-17</LatestDate>
+                  <!--<OtherMetadata xmlns="fr:gouv:culture:archivesdefrance:seda:v1.0">
+                            <premis:event xmlns:premis="info:lc/xmlns/premis-v2">
+<premis:eventIdentifier>
+    <premis:eventIdentifierType>Docuteam</premis:eventIdentifierType>
+    <premis:eventIdentifierValue>ID20200630152725445</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventType>Creation</premis:eventType>
+<premis:eventDateTime>2020-06-30T15:27:25</premis:eventDateTime>
+<premis:eventDetail>Performed by: 'picka'</premis:eventDetail>
+<premis:eventOutcomeInformation>
+    <premis:eventOutcome>Success</premis:eventOutcome>
+</premis:eventOutcomeInformation>
+                            </premis:event>
+                        </OtherMetadata>--></ContentDescription>
+               <Document Id="ID20200630152725419">
+                  <Attachment uri="Content/mail_20200709194927095.htm" filename="mail_20200709194927095.htm"/>
+                  <Description>Hypertext Markup Language</Description>
+                  <Issue>2020-06-17T17:44:37.465+02:00</Issue>
+                  <Size unitCode="2P">90204</Size>
+                  <Type>CDO</Type>
+               </Document>
+            </ArchiveObject>
+            <ArchiveObject Id="ID20200630152725477">
+               <Name>mail</Name>
+               <ContentDescription>
+                  <DescriptionLevel>file</DescriptionLevel>
+                  <Language>fra</Language>
+                  <LatestDate>2020-06-17</LatestDate>
+                  <!--<OtherMetadata xmlns="fr:gouv:culture:archivesdefrance:seda:v1.0">
+                            <premis:event xmlns:premis="info:lc/xmlns/premis-v2">
+<premis:eventIdentifier>
+    <premis:eventIdentifierType>Docuteam</premis:eventIdentifierType>
+    <premis:eventIdentifierValue>ID20200630152725483</premis:eventIdentifierValue>
+</premis:eventIdentifier>
+<premis:eventType>Creation</premis:eventType>
+<premis:eventDateTime>2020-06-30T15:27:25</premis:eventDateTime>
+<premis:eventDetail>Performed by: 'picka'</premis:eventDetail>
+<premis:eventOutcomeInformation>
+    <premis:eventOutcome>Success</premis:eventOutcome>
+</premis:eventOutcomeInformation>
+                            </premis:event>
+                        </OtherMetadata>--></ContentDescription>
+               <Document Id="ID20200630152725467">
+                  <Attachment uri="Content/mail_20200709194927099.msg" filename="mail_20200709194927099.msg"/>
+                  <Description>Microsoft Outlook Email Message</Description>
+                  <Issue>2020-06-17T17:41:09.182+02:00</Issue>
+                  <Size unitCode="2P">136704</Size>
+                  <Type>CDO</Type>
+               </Document>
+            </ArchiveObject>
+         </ArchiveObject>
+      </ArchiveObject>
+   </Archive>
+</ArchiveTransfer>
