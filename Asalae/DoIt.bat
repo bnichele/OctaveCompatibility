@@ -1,0 +1,1 @@
+java -jar saxon9.jar -s:manifest.xml -xsl:CleanManifest_ASALAE.xsl -o:CleanedManifest.xml ArchivalAgency=id_ad TransferringAgency=id_spsv

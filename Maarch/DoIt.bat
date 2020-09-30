@@ -1,0 +1,1 @@
+java -jar saxon9.jar -s:manifest.xml -xsl:CleanManifest_MAARCH.xsl -o:CleanedManifest.xml ArchivalAgreement=AGREEMENT_OCTAVE ArchivalProfile=actes_v2 ArchivalAgency=ACME_ARCHIVE TransferringAgency=MAARCH_LES_BAINS_SA

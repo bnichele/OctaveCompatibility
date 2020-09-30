@@ -1,0 +1,1 @@
+java -jar saxon9.jar -s:manifest.xml -xsl:CleanManifest_VITAM.xsl -o:CleanedManifest.xml ArchivalAgreement=IC-000001 ArchivalAgency=Identifier1 TransferringAgency=Identifier0

@@ -1,0 +1,231 @@
+<ArchiveTransfer xmlns="fr:gouv:culture:archivesdefrance:seda:v2.1"
+                 xmlns:ns2="http://www.w3.org/1999/xlink"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <Date>2020-09-23T13:42:37.959+02:00</Date>
+   <MessageIdentifier>Id_11:22:19.454+02:00</MessageIdentifier>
+   <ArchivalAgreement>AGREEMENT_OCTAVE</ArchivalAgreement>
+   <CodeListVersions>
+      <MessageDigestAlgorithmCodeListVersion>MessageDigestAlgorithmCode</MessageDigestAlgorithmCodeListVersion>
+      <MimeTypeCodeListVersion>MimeTypeCode</MimeTypeCodeListVersion>
+      <FileFormatCodeListVersion>FileFormatCode</FileFormatCodeListVersion>
+      <StorageRuleCodeListVersion>StorageRuleCode</StorageRuleCodeListVersion>
+      <AppraisalRuleCodeListVersion>AppraisalRuleCode</AppraisalRuleCodeListVersion>
+      <AccessRuleCodeListVersion>AccessRuleCode</AccessRuleCodeListVersion>
+      <DisseminationRuleCodeListVersion>DisseminationRuleCode</DisseminationRuleCodeListVersion>
+      <ReuseRuleCodeListVersion>ReuseRuleCode</ReuseRuleCodeListVersion>
+      <ClassificationRuleCodeListVersion>ClassificationRuleCode</ClassificationRuleCodeListVersion>
+   </CodeListVersions>
+   <DataObjectPackage>
+      <BinaryDataObject id="ID20200816110333559">
+         <Uri>Content/CR_20200923134237974.docx</Uri>
+         <MessageDigest algorithm="sha512">f983409109e88c6f52165e363202e9d2b5a1782fe9f84ec40c8300c93edbc2fd103d44c27209187d59e195ba0e4979b302044d77921cda4faf620b26363f670e</MessageDigest>
+         <Size>11888</Size>
+         <FormatIdentification>
+            <FormatLitteral>Microsoft Word for Windows</FormatLitteral>
+            <MimeType>application/vnd.openxmlformats-officedocument.wordprocessingml.document</MimeType>
+            <FormatId>fmt/412</FormatId>
+         </FormatIdentification>
+         <FileInfo>
+            <Filename>CR_20200923134237974.docx</Filename>
+            <LastModified>2020-06-17T11:57:23.896+02:00</LastModified>
+         </FileInfo>
+      </BinaryDataObject>
+      <BinaryDataObject id="ID20200816110337574">
+         <Uri>Content/CR_20200923134237975.pdf</Uri>
+         <MessageDigest algorithm="sha512">12248227ed132d339f7f191a84a03c3da8f9a9e7c4e8a8b108976f4b2efe79e9b6fa73b950f8a6d5e6dd8d3ecd3b994fb5977a7a9c09286258d73330330893f5</MessageDigest>
+         <Size>33524</Size>
+         <FormatIdentification>
+            <FormatLitteral>Acrobat PDF 1.7 - Portable Document Format</FormatLitteral>
+            <MimeType>application/pdf</MimeType>
+            <FormatId>fmt/276</FormatId>
+         </FormatIdentification>
+         <FileInfo>
+            <Filename>CR_20200923134237975.pdf</Filename>
+            <LastModified>2020-06-17T11:57:29.193+02:00</LastModified>
+         </FileInfo>
+      </BinaryDataObject>
+      <BinaryDataObject id="ID20200816110337645">
+         <Uri>Content/mail_20200923134237976.htm</Uri>
+         <MessageDigest algorithm="sha512">4ae0ef0bc685b488b17399310229e15071b437bb0b330e717b933f76aa2ace4ebda4c28abd908897d6e85cc7819630364acff76a9f4521a21758a5bb297ce03d</MessageDigest>
+         <Size>90204</Size>
+         <FormatIdentification>
+            <FormatLitteral>Hypertext Markup Language</FormatLitteral>
+            <MimeType>text/html</MimeType>
+            <FormatId>fmt/96</FormatId>
+         </FormatIdentification>
+         <FileInfo>
+            <Filename>mail_20200923134237976.htm</Filename>
+            <LastModified>2020-06-17T17:44:37.465+02:00</LastModified>
+         </FileInfo>
+      </BinaryDataObject>
+      <BinaryDataObject id="ID20200816110337701">
+         <Uri>Content/mail_20200923134237977.msg</Uri>
+         <MessageDigest algorithm="sha512">d80bdddf9ec52d0e8a07d01ce3162bcaa62b1e61527000c3fea4a0fcae87e2acaea36e6283f49458e8efa933a1333a3fd7b68d96b2053a24fc77a3c9eb463a59</MessageDigest>
+         <Size>136704</Size>
+         <FormatIdentification>
+            <FormatLitteral>Microsoft Outlook Email Message</FormatLitteral>
+            <MimeType>Unknown</MimeType>
+            <FormatId>x-fmt/430</FormatId>
+         </FormatIdentification>
+         <FileInfo>
+            <Filename>mail_20200923134237977.msg</Filename>
+            <LastModified>2020-06-17T17:41:09.182+02:00</LastModified>
+         </FileInfo>
+      </BinaryDataObject>
+      <DescriptiveMetadata>
+         <ArchiveUnit id="ID20200816110333447">
+            <Management>
+               <LogBook>
+                  <Event>
+                     <EventIdentifier>ID20200816110333449</EventIdentifier>
+                     <EventType>Creation</EventType>
+                     <EventDateTime>2020-08-16T11:03:33</EventDateTime>
+                     <EventDetail>Performed by: 'picka'</EventDetail>
+                  </Event>
+               </LogBook>
+            </Management>
+            <Content>
+               <DescriptionLevel>File</DescriptionLevel>
+               <Title>Light</Title>
+               <Type>CDO</Type>
+               <EndDate>2020-08-16</EndDate>
+            </Content>
+            <ArchiveUnit id="ID20200816110333525">
+               <Management>
+                  <LogBook>
+                     <Event>
+                        <EventIdentifier>ID20200816110333527</EventIdentifier>
+                        <EventType>Creation</EventType>
+                        <EventDateTime>2020-08-16T11:03:33</EventDateTime>
+                        <EventDetail>Performed by: 'picka'</EventDetail>
+                     </Event>
+                  </LogBook>
+               </Management>
+               <Content>
+                  <DescriptionLevel>File</DescriptionLevel>
+                  <Title>Bureautique</Title>
+                  <Type>CDO</Type>
+                  <EndDate>2020-08-16</EndDate>
+               </Content>
+               <ArchiveUnit id="ID20200816110337543">
+                  <Management>
+                     <LogBook>
+                        <Event>
+                           <EventIdentifier>ID20200816110337553</EventIdentifier>
+                           <EventType>Creation</EventType>
+                           <EventDateTime>2020-08-16T11:03:37</EventDateTime>
+                           <EventDetail>Performed by: 'picka'</EventDetail>
+                        </Event>
+                     </LogBook>
+                  </Management>
+                  <Content>
+                     <DescriptionLevel>File</DescriptionLevel>
+                     <Title>CR</Title>
+                     <Type>CDO</Type>
+                     <EndDate>2020-06-17</EndDate>
+                  </Content>
+                  <DataObjectReference>
+                     <DataObjectReferenceId>ID20200816110333559</DataObjectReferenceId>
+                  </DataObjectReference>
+               </ArchiveUnit>
+               <ArchiveUnit id="ID20200816110337587">
+                  <Management>
+                     <LogBook>
+                        <Event>
+                           <EventIdentifier>ID20200816110337598</EventIdentifier>
+                           <EventType>Creation</EventType>
+                           <EventDateTime>2020-08-16T11:03:37</EventDateTime>
+                           <EventDetail>Performed by: 'picka'</EventDetail>
+                        </Event>
+                     </LogBook>
+                  </Management>
+                  <Content>
+                     <DescriptionLevel>File</DescriptionLevel>
+                     <Title>CR</Title>
+                     <Type>CDO</Type>
+                     <EndDate>2020-06-17</EndDate>
+                  </Content>
+                  <DataObjectReference>
+                     <DataObjectReferenceId>ID20200816110337574</DataObjectReferenceId>
+                  </DataObjectReference>
+               </ArchiveUnit>
+            </ArchiveUnit>
+            <ArchiveUnit id="ID20200816110337612">
+               <Management>
+                  <LogBook>
+                     <Event>
+                        <EventIdentifier>ID20200816110337614</EventIdentifier>
+                        <EventType>Creation</EventType>
+                        <EventDateTime>2020-08-16T11:03:37</EventDateTime>
+                        <EventDetail>Performed by: 'picka'</EventDetail>
+                     </Event>
+                  </LogBook>
+               </Management>
+               <Content>
+                  <DescriptionLevel>File</DescriptionLevel>
+                  <Title>Mail</Title>
+                  <Type>CDO</Type>
+                  <EndDate>2020-08-16</EndDate>
+               </Content>
+               <ArchiveUnit id="ID20200816110337658">
+                  <Management>
+                     <LogBook>
+                        <Event>
+                           <EventIdentifier>ID20200816110337675</EventIdentifier>
+                           <EventType>Creation</EventType>
+                           <EventDateTime>2020-08-16T11:03:37</EventDateTime>
+                           <EventDetail>Performed by: 'picka'</EventDetail>
+                        </Event>
+                     </LogBook>
+                  </Management>
+                  <Content>
+                     <DescriptionLevel>File</DescriptionLevel>
+                     <Title>mail</Title>
+                     <Type>CDO</Type>
+                     <EndDate>2020-06-17</EndDate>
+                  </Content>
+                  <DataObjectReference>
+                     <DataObjectReferenceId>ID20200816110337645</DataObjectReferenceId>
+                  </DataObjectReference>
+               </ArchiveUnit>
+               <ArchiveUnit id="ID20200816110337756">
+                  <Management>
+                     <LogBook>
+                        <Event>
+                           <EventIdentifier>ID20200816110337779</EventIdentifier>
+                           <EventType>Creation</EventType>
+                           <EventDateTime>2020-08-16T11:03:37</EventDateTime>
+                           <EventDetail>Performed by: 'picka'</EventDetail>
+                        </Event>
+                     </LogBook>
+                  </Management>
+                  <Content>
+                     <DescriptionLevel>File</DescriptionLevel>
+                     <Title>mail</Title>
+                     <Type>CDO</Type>
+                     <EndDate>2020-06-17</EndDate>
+                  </Content>
+                  <DataObjectReference>
+                     <DataObjectReferenceId>ID20200816110337701</DataObjectReferenceId>
+                  </DataObjectReference>
+               </ArchiveUnit>
+            </ArchiveUnit>
+         </ArchiveUnit>
+      </DescriptiveMetadata>
+      <ManagementMetadata>
+         <ArchivalProfile>actes_v2</ArchivalProfile>
+         <LogBook>
+            <Event>
+               <EventDateTime>2020-09-23T13:42:37.972+02:00</EventDateTime>
+               <EventDetail>OCTAVE/docuteam-packer 5.3.0</EventDetail>
+            </Event>
+         </LogBook>
+      </ManagementMetadata>
+   </DataObjectPackage>
+   <ArchivalAgency>
+      <Identifier>ACME_ARCHIVE</Identifier>
+   </ArchivalAgency>
+   <TransferringAgency>
+      <Identifier>MAARCH_LES_BAINS_SA</Identifier>
+   </TransferringAgency>
+</ArchiveTransfer>
