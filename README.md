@@ -7,3 +7,4 @@ Le mode opératoire est présenté dans le document PDF Compatibilite_Octave_202
 
 mintika 2020
 https://hub.mintika.fr/
+https://hub.mintika.fr/2020/09/30/ameliorer-la-compatibilite-des-exports-doctave/
