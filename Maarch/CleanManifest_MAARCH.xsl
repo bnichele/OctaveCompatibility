@@ -37,6 +37,9 @@
 
     <!-- Ajout de l'id du contrat d'entrée & d'un identifiant de transfert -->
     <xsl:template match="seda:MessageIdentifier">
+        <xsl:comment>
+            <xsl:text>XSL mintika 2020 : Transformation des manifest produits par Octave pour les rendre compatibles avec Maarch v2.6</xsl:text>
+        </xsl:comment>
         <xsl:element name="MessageIdentifier">
             <xsl:text>Id_</xsl:text>
             <xsl:value-of select="current-time()"/>
